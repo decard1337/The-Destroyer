@@ -1,5 +1,5 @@
 # The Destroyer
-This DC bot will destroy any server
+This Discord bot will destroy any server
 
 ### WARNING
 If you have connected the bot to other servers those
