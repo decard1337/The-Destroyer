@@ -17,3 +17,7 @@ Download it with the zip or install with [**Git**](https://git-scm.com/downloads
 Put in the bot token at`botToken: "PUT TOKEN HERE"`.
 
 Run the bot with `node index.js or .` or you can run it with start.bat.
+
+### NOTE
+
+I didn't make this, just founded on my HDD.
