@@ -1,4 +1,4 @@
-# The-Destroyer
+# The Destroyer
 This DC bot will destroy any server
 
 ### WARNING
